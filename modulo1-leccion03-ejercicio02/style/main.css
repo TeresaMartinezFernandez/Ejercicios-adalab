@@ -1,0 +1,12 @@
+.inline {
+  display: inline;
+  size: 100px;
+}
+.none {
+  display: none;
+  size: 100px;
+}
+.inline-block {
+  display: inline-block;
+  size: 100px;
+}

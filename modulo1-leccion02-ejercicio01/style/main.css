@@ -1,0 +1,14 @@
+.name {
+  background-color: salmon;
+  color: red;
+  border-color: solid red;
+}
+
+.comidas {
+  background-color: blue;
+  color: black;
+}
+.dias {
+  background-color: gray;
+  color: rgb(9, 56, 9);
+}
